@@ -1,8 +1,3 @@
-//Student ID: 140009228
-//23 February 2016
-//Logic Practical
-//ttable.h
-
 #ifndef TTABLE_H
 #define TTABLE_H
 
