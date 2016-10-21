@@ -1,8 +1,3 @@
-//Student ID: 140009228
-//23 February 2016
-//Logic Practical
-//formula_parser.c
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
