@@ -1,8 +1,3 @@
-#Student ID: 140009228
-#23 February 2016
-#Logic Practical
-#makefile
-
 clean:
 	rm *.o ttable
 
@@ -17,3 +12,4 @@ formula_parser.o: formula_parser.c ttable.h
 
 ttable_main.o: ttable_main.c ttable.h
 	gcc -c ttable_main.c -std=c99 -Wall -Wextra -g
+	
