@@ -1,8 +1,3 @@
-//Student ID: 140009228
-//22 February 2016
-//Logic Practical
-//ttable.c
-
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
